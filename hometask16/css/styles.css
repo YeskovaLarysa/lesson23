@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 20px;
+}
+
+img {
+  border: 1px solid #ffcc00;
+  border-radius: 10px;
+}
